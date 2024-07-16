@@ -5,6 +5,7 @@
   "main": "main.js",
   "author": "Codecademy",
   "license": "ISC",
+  "type": "module",
   "dependencies": {
     "prompt-sync": "^4.2.0"
   }
